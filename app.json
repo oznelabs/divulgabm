@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template",
-    "slug": "mobile",
+    "name": "Divulga Barra do Mendes",
+    "slug": "divulgabm",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -15,7 +15,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#2e9a6e"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
